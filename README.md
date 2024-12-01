@@ -1,2 +1,2 @@
 # MT_Assignment_M1
-I Explain OOPS CONCEPT, SDLC LIFE CYCLE, DIFFERENCE OF VALIDATION AND VERIFICATION, DIFFERENT MODELS, MAKE MULTIPLE USECASE DIAGRAM ALL THIS CONCEPTS ARE DESCRIBE IN DETAILS. 
+I Explain Oops Concept, Sdlc Life Cycle, Difference of Validation and Verification, Different Models, Make Multiple Usecase Diagram All This Concepts Are Describe in Details. 
